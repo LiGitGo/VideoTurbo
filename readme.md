@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README_zh.md)
+
 # VideoTurbo -- Video Speed Control for Chrome
 
 ## Features
@@ -35,7 +37,7 @@ Install this extension and enjoy full control over your video playback speeds!
 
 ![Installation](images/02.png)
 
-4. Hold down numeric keys to adjust video to corresponding speeds (key 5 corresponds to 1.5x speed, other numeric keys correspond to 1.0/2.0/3.0 etc.)
+4. Hold down numeric keys on the keyboard to adjust video to corresponding speeds (key 5 corresponds to 1.5x speed, other numeric keys correspond to 1.0/2.0/3.0 etc.)
 
 5. Release the numeric key to restore the video to original speed
 
