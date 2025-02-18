@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "视频速度控制器",
+  "version": "1.0",
+  "description": "检测页面视频并控制播放速度",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+} 
